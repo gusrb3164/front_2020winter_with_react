@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/front_2020winter_with_react/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/front_2020winter_with_react/static/js/main.7b34d0d2.chunk.js",
+    "main.js.map": "/front_2020winter_with_react/static/js/main.7b34d0d2.chunk.js.map",
+    "runtime-main.js": "/front_2020winter_with_react/static/js/runtime-main.39b435f7.js",
+    "runtime-main.js.map": "/front_2020winter_with_react/static/js/runtime-main.39b435f7.js.map",
+    "static/js/2.900f7cb2.chunk.js": "/front_2020winter_with_react/static/js/2.900f7cb2.chunk.js",
+    "static/js/2.900f7cb2.chunk.js.map": "/front_2020winter_with_react/static/js/2.900f7cb2.chunk.js.map",
+    "static/js/3.42667107.chunk.js": "/front_2020winter_with_react/static/js/3.42667107.chunk.js",
+    "static/js/3.42667107.chunk.js.map": "/front_2020winter_with_react/static/js/3.42667107.chunk.js.map",
+    "index.html": "/front_2020winter_with_react/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/front_2020winter_with_react/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.900f7cb2.chunk.js.LICENSE.txt": "/front_2020winter_with_react/static/js/2.900f7cb2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/front_2020winter_with_react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39b435f7.js",
+    "static/js/2.900f7cb2.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.7b34d0d2.chunk.js"
+  ]
+}
